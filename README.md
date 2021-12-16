@@ -6,6 +6,7 @@ So there are not user accounts and follow function. You can challenge after you 
 ```
 Check out [LIVE Twitter clone DEMO](https://twitterclone-james.herokuapp.com) here!!
 
+![Screen Shot 2021-12-16 at 6 03 57 PM](https://user-images.githubusercontent.com/91572136/146462249-736f1a98-019d-459a-a927-f73262cdd9ea.png)
 
 
 
